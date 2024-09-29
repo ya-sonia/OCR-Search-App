@@ -33,4 +33,4 @@ pip install pytesseract     # For traditional OCR as fallback
 
 ## Step3 : How to run the web application app
 *command is:*
-   ```streamlit run ocr1.py```
+   ```streamlit run app.py```
